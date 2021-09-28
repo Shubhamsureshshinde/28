@@ -15,3 +15,6 @@ if (BMIpintu>BMIchanchal){
 else{
     console.log("bmi of Chanchal is greater ")  
 }
+
+
+// GIT ADD the don
