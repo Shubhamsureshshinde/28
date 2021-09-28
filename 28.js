@@ -37,3 +37,10 @@ if (BMIpintu>BMIchanchal){
 else{
     console.log("bmi of Chanchal is greater ")
 }
+
+const inputyear = "1225"
+console.log(Number(inputyear));
+console.log(Number(inputyear)+55);
+
+console.log(Number("jonas"))
+console.log("56"+"87")
